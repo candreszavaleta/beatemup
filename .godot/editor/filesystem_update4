@@ -1,0 +1,8 @@
+res://player.tscn
+res://survivors_game.tscn
+res://pine_tree.tscn
+res://warrior.tscn
+res://warrior.gd
+res://input_buffer.gd
+res://warrior2.tscn
+res://warrior2.gd

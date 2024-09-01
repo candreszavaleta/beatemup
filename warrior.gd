@@ -4,7 +4,7 @@ extends CharacterBody2D
 const walking_speed = 600.0
 var isAttacking = false
 var horizontal_direction = 0
-
+#comentario
 func _physics_process(delta: float) -> void:
 	
 	if Input.is_action_just_pressed("p1_attack"):
